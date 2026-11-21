@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+.DS_Store
+# written by the notebook when it runs (the locked test set)
+test_locked.rds
